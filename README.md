@@ -142,7 +142,7 @@ Python · NumPy · SciPy · pandas · Matplotlib · soundfile · soundcard · F1
 
 ## Author
 
-**Sai Sidhanth Lade** — BEng Acoustical Engineering, University of Southampton (ISVR)
+**Sai Sidhanth Lade** — BEng Acoustical Engineering, University of Southampton 
 [LinkedIn](https://www.linkedin.com/in/sai-sidhanth-lade-706869357/) · [GitHub](https://github.com/SidLade321)
 
 *This is an independent student project, not affiliated with EA, Codemasters or Formula 1. No game audio is included in this repository.*
